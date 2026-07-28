@@ -60,6 +60,8 @@ Do not include a header row.
 
 ## Running the Script
 
+Change the base_url if needed
+
 ```bash
 python main.py
 ```
