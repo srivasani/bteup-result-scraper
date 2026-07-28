@@ -21,11 +21,8 @@ bteup-result-scraper/
 │
 ├── README.md              
 ├── LICENSE                  
-├── requirements.txt          
-├── .gitignore               
-│
-├── main.py                   # Main scraper script
-│      
+├── requirements.txt                       
+├── main.py                   # Main scraper script  
 └──  data.csv      
 
 ```
