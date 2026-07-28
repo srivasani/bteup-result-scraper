@@ -25,10 +25,8 @@ bteup-result-scraper/
 ├── .gitignore               
 │
 ├── main.py                   # Main scraper script
-│
-├── data.csv              
-├── log.txt
-└── output.txt     
+│      
+└──  data.csv      
 
 ```
 
@@ -46,7 +44,7 @@ pip install -r requirements.txt
 
 ## Input Format
 
-Create a file named `data.csv` in the project directory.
+Rename `data.csv.example` to `data.csv` before running the script.
 
 Each line should contain:
 
